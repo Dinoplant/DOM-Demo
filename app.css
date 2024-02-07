@@ -9,3 +9,12 @@ body {
 .pagewrapper {
     display: flex;
 }
+
+.left{
+    width:75vw;
+}
+
+.right{
+    width:75vw;
+    background-color: lightgray;
+}
